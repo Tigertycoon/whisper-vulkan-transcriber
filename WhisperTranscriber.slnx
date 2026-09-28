@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/WhisperTranscriber/WhisperTranscriber.csproj" />
+  <Project Path="tests/WhisperTranscriber.Tests/WhisperTranscriber.Tests.csproj" />
+</Solution>
